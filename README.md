@@ -7,6 +7,5 @@ Calculadora desenvolvida durante um curso focado em Java
 - [Java](https://docs.oracle.com/en/java/)
 - [Java Switch](https://www.w3schools.com/java/java_switch.asp)
 
-## ⚙ Requisitos
+## ⚙ Projeto desenvolvido pela IDE [netbeans](https://netbeans.apache.org/download/index.html)
 
-Antes de começar🏁, você precisa ter o [Git](https://git-scm.com) instalado.
