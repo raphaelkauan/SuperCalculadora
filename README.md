@@ -1,4 +1,4 @@
-# SuperCalculadora
+# Super Calculadora
 
 Calculadora desenvolvida durante um curso focado em Java
 
